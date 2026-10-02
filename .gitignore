@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+
+# Credenciais do Firebase
+serviceAccount.json
+
+# Dados exportados
+export/
+
+# Backup completo
+exportCompletoImobFirebase.zip
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs
+*.log
